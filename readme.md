@@ -1,4 +1,14 @@
-## Welcome Gamjagogi's home
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=random&customColorList=0,2,2,5,30&text=Welcome)
+
+
+![reversal](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=auto&text=%20Gamjagogi's%20&animation=fadeIn)
+
+![header](https://capsule-render.vercel.app/api?height=400&text=HOME!)
+
+
+
+
+![5edb029136eb08124449](https://user-images.githubusercontent.com/110292164/207839444-c13b8158-2e56-45a2-a87d-31465ead3421.gif)
 
 ![Gamjagogi's GitHub stats]()
 
